@@ -12,6 +12,7 @@ The project will follow the guidelines, including:
 The workbook will use a realistic sample customer feedback dataset.
 
 **PROJECT DATA**
+
 **Read Me**
 <img width="1262" height="849" alt="A" src="https://github.com/user-attachments/assets/5e2bd5d6-6475-4f75-98be-b97505749562" />
 
