@@ -50,6 +50,7 @@ Benefits: Saves time, improves discipline, tracks performance, and encourages us
 
 **Conclusion:**
 This project makes habit tracking simple and organized. It helps users monitor their routines, measure progress, and stay focused on achieving their personal goals.
+
 *First View*
 <img width="1185" height="701" alt="A211" src="https://github.com/user-attachments/assets/a8851e86-392e-4fb0-99ef-e79bd32bfd10" />
 *Actual Progress View*
